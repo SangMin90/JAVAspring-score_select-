@@ -8,6 +8,7 @@
 <title>입력</title>
 </head>
 <body>
+	
 <form action="insert_action" method = "post">
 	  <!-- <input type = "hidden" name ="student_no" value = "${student_no }" /> -->
       이름<input type="text" name="name" placeholder = "이름" value = "${name }" />
