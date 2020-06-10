@@ -1,0 +1,21 @@
+form{
+  width: 500px;
+  padding: 40px;
+  background: #eee;
+  border-radius: 20px;
+  margin: 0 auto;
+}
+
+form input[type = "text"], form input[type="number"]{
+
+  width: 100%;
+  margin: 10px 0px;
+  padding: 10px;
+
+}
+
+form input[type="submit"]{
+  display: block;
+  padding: 10px 50px;
+  margin: 0 auto;
+}
